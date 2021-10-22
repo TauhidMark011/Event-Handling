@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event Handling</string>
+    <string name="mark">Mark</string>
+    <string name="button">Button</string>
+    <string name="show_name">show_name</string>
+    <string name="please_enter_a_message">Please enter a message</string>
+    <string name="show">show</string>
+    <string name="show_message">show_message</string>
+    <string name="my_name">my_Name</string>
+</resources>
